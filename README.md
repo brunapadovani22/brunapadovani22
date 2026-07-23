@@ -4,7 +4,7 @@
 
 💻 Backend Developer in progress
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunapadovani22&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunapadovani22&theme=dark)
 
 ---
 
