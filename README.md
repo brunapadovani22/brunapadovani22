@@ -67,13 +67,13 @@ The project explores API development, data organization, automation possibilitie
 
 ---
 
-### 🧮 Scientific Calculator 
+### 🧮 Scientific Calculator
+
+Acesse o repositório oficial em: [Scientific Calculator](https://github.com/brunapadovani22/ScientificCalculator)
 
 A desktop application developed with **C# and WPF** featuring a custom expression parser, mathematical functions, and full physical keyboard support.
 
 The project explores GUI development, custom parsing logic (Tokenizer & Parser), angle mode conversions, and user input handling.
-
-Acesse o repositório oficial em: [Scientific Calculator](https://github.com/brunapadovani22/CalculadoraCientifica)
 
 ---
 
