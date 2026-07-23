@@ -3,7 +3,7 @@
 🎓 Computer Science Student  
 💻 Backend Developer in progress
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunapadovani22&show_icons=true&theme=dark)
 
 ---
 
