@@ -1,6 +1,7 @@
 # Hi, I'm Bruna Padovani 👋
 
-🎓 Computer Science Student  
+🎓 Computer Science Student
+
 💻 Backend Developer in progress
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunapadovani22&show_icons=true&theme=dark)
@@ -19,7 +20,7 @@ I enjoy creating solutions that combine technology, automation, and real-world p
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -104,6 +105,13 @@ I am constantly learning and building projects to improve my technical skills an
 
 ---
 
+## 📫 Contact
+
+📍 Catanduva, São Paulo, Brazil
+
+💼 LinkedIn: [brunapadovani22](https://www.linkedin.com/in/brunapadovani22)
+
+📧 Email: [brunaepadovani@gmail.com](mailto:brunaepadovani@gmail.com)
 ## 📫 Contact
 
 📍 Catanduva, São Paulo, Brazil
